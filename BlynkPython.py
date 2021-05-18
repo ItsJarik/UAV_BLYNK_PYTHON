@@ -2,7 +2,7 @@
 
 import blynklib
 
-BLYNK_AUTH = 'Cj_AmQrFDvZPAURuqZ6k4a7RPrwtDTCd'
+BLYNK_AUTH = 'tylKcaLYauctISWFL0l9KEZVK8DN77Wj'
 
 # initialize Blynk
 blynk = blynklib.Blynk(BLYNK_AUTH)
